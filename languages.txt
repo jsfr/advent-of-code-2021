@@ -1,0 +1,23 @@
+day 1: go
+day 2: haskell
+day 3: julia
+day 4: nim
+
+potential languages
+- zig
+- erlang
+- elixir
+- prolog
+- d
+- dart
+- rust
+- ocaml
+- clojure
+- fennel
+- scala
+- ruby
+- perl
+- r
+- idris
+- x86 assembly
+- crystal
