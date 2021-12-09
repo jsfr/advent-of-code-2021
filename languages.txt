@@ -21,3 +21,4 @@ potential languages
 - idris
 - x86 assembly
 - crystal
+- gleam
